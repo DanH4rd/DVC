@@ -1,0 +1,2 @@
+Screenshot'y z Chromem są zrobione ze scryptu uruchomionego w Docker, pozostałe są zrobione ze skryptu
+uruchomionego bez Dockera, bo budowałem obraz ponownie i już 4 minuty przed terminem oddawania.
